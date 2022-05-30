@@ -7,7 +7,7 @@ import logo from './logo.svg'
 function App() {
   const [count, setCount] = useState(0)
 
-  return <div className="App">Testing!!!!!</div>
+  return <div className="App">Testing</div>
 }
 
 export default App
